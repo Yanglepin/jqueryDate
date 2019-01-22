@@ -1,0 +1,25 @@
+{
+  "name": "jquery-date",
+  "version": "1.4.3",
+  "description": "jquery移动端时间插件",
+  "main": "jquery.date.js",
+  "bin": "jquery.date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "date"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weijhfly/jqueryDatePlugin"
+  },
+  "author": "wjh",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    
+  }
+}
